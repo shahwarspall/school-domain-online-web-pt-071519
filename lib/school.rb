@@ -1,3 +1,3 @@
 class School
-  def initi
+  def initialize
 end
