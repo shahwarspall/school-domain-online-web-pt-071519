@@ -1,14 +1,13 @@
 class School
   attr_accessor :add_student , :grade, :sort 
   
-  new = []
-  
-  def initialize(new)
-    @new = new
+
+  def initialize(name)
+    @name = name
+    @
 end
 
-def new 
-  @new 
-  
+
+
 end 
 end
