@@ -11,6 +11,6 @@ def roster
   @roster
 end 
 
-Def add_student (grade,)
+Def add_student (name,grade)
 
 end
