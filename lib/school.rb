@@ -10,4 +10,7 @@ end
 def roster
   @roster
 end 
+
+Def add_student
+
 end
