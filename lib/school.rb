@@ -12,5 +12,6 @@ def roster
 end 
 
 Def add_student (name,grade)
+if roster 
 
 end
